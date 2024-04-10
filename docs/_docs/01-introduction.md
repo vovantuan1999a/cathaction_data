@@ -12,6 +12,13 @@ Welcome to Endovascular Intervention CathAction project! We present CathAction, 
   <img src="../../assets/images/TMI_intro.png" alt="samples" style="width: 100%;" />
 </p>
 
+## Data collection setup
+<p align="center">
+  <img src="../../assets/images/TMI_datasetup.png" alt="data_pipeline" style="width: 100%;" />
+</p>
+
+The data collection setup with human silicon phantoms in the operating room
+
 ## Dataset Comparison
 <p align="center">
   <img src="../../assets/images/TMI-dataset-comparison.png" alt="dataset_comparison" style="width: 100%;" />
